@@ -1,31 +1,21 @@
- 	Meeting Minutes
+- 	Meeting Minutes
 Call to order
 A meeting of client with a project lead for tranformation of the database to work efficiently . It was a metting between the employee and  analyst on reconstructing the old data base without changing the old database. the meeting is held in the month of january.
-Attendees
+Attendees-
 Ethan -project lead , Hourly contractor  
-Members not in attendance
+Members not in attendance-
 Kelly, Bharat , Shri , Sai, Brandy
-Approval of minutes
+Approval of minutes-
 the code review, campaign summary and side projects are to be discussed the requirements are given to the analyst.
-Reports
+Reports-
 not prepeared and done in a hurry to give an overview of the work that is to be done
-Unfinished business
+Unfinished business-
 On monday doubts and solution to the problem will be provided.
-New business
+New business-
 camapaign summary, create model , review code, resuable code
-Announcements
+Announcements-
 the gist and models will be given for futher changes and requierments
 		
-project lead- ethan		
-
-		
-
-
-
-
-
-
-
 
 assumption:
  the meeting was not well planned. the requierments were not too specific.
