@@ -1,0 +1,41 @@
+ 	Meeting Minutes
+Call to order
+A meeting of client with a project lead for tranformation of the database to work efficiently . It was a metting between the employee and  analyst on reconstructing the old data base without changing the old database. the meeting is held in the month of january.
+Attendees
+Ethan -project lead , Hourly contractor  
+Members not in attendance
+Kelly, Bharat , Shri , Sai, Brandy
+Approval of minutes
+the code review, campaign summary and side projects are to be discussed the requirements are given to the analyst.
+Reports
+not prepeared and done in a hurry to give an overview of the work that is to be done
+Unfinished business
+On monday doubts and solution to the problem will be provided.
+New business
+camapaign summary, create model , review code, resuable code
+Announcements
+the gist and models will be given for futher changes and requierments
+		
+project lead- ethan		
+
+		
+
+
+
+
+
+
+
+
+assumption:
+ the meeting was not well planned. the requierments were not too specific.
+
+
+summary:
+ the project lead wanted to give the contractor the gist of requerments that has to be done with the database without changing  the code.
+the maanger if this project is kelly .
+on monday the models and summary on the campaign will be given.
+the requirments are to  make cod optimise, uniform and genric, with same syntax and different variables.
+the purpose is to take campaign id and produce its campaign ck if not given then generate it.
+software is oracle .
+faster and resuable code.
